@@ -1,9 +1,10 @@
 ### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-:computer: MSc in Informatics and Computing Engineering (year 2/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
+:computer: MSc in Informatics and Computing Engineering (year 3/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I'm currently interested in game programming and exploring algorithms. <br />
 :video_game: I like to play some piano and games in my free time. <br />
+:desktop_computer: I'm learning game development on my own. <br />
 
 <!--- Github and mail:to --->
 <a href="https://www.linkedin.com/in/jos%C3%A9-martins-35a809241/">
