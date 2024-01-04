@@ -2,9 +2,8 @@
 
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering (year 3/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
-:telescope: I'm currently interested in game programming and exploring algorithms. <br />
+:telescope: I'm currently interested in game development and exploring algorithms. <br />
 :video_game: I like to play some piano and games in my free time. <br />
-:desktop_computer: I'm learning game development on my own. <br />
 
 <!--- Github and mail:to --->
 <a href="https://www.linkedin.com/in/jos%C3%A9-martins-35a809241/">
@@ -45,3 +44,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeAntonioM&theme=dark&show_icons=true&layout=compact&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,feup-csr" />
 </div>
 
+<h2 align = "center" >Projects</h2>
+<p align = "center">
+
+| UC-ProjectX   | Description                                                                                                                                          | Grade (/20) |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [SO](https://github.com/ZeAntonioM/SOpeProject) | | |
+| [AED-Project1](https://github.com/ZeAntonioM/AED_project1) | | |
+| [AED-Project2](https://github.com/ZeAntonioM/AED_project2) | | |
+| [LDTS](https://github.com/ZeAntonioM/LDTS-project) | | |
+| [BD](https://github.com/ZeAntonioM/BD-Project) | | |
+| [DA-Project1](https://github.com/ZeAntonioM/da-project1) | | |
+| [DA-Project2](https://github.com/ZeAntonioM/DA-Project2) | | |
+| [ES](https://github.com/ZeAntonioM/ES-Project1) | | |
+| [LC](https://github.com/ZeAntonioM/LCOM-Project) | | |
+| [LTW](https://github.com/ZeAntonioM/LTW-Project) | | |
+| [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | | |
+| [PFL-Project1](https://github.com/ZeAntonioM/pfl-project1) | | |
+| [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | | |
+| [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | | |
+| [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | | |
+
+</p>
