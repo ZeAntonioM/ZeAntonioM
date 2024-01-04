@@ -49,20 +49,20 @@
 
 | UC-ProjectX   | Description                                                                                                                                          | Grade (/20) |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [SO](https://github.com/ZeAntonioM/SOpeProject) | | |
-| [AED-Project1](https://github.com/ZeAntonioM/AED_project1) | | |
-| [AED-Project2](https://github.com/ZeAntonioM/AED_project2) | | |
-| [LDTS](https://github.com/ZeAntonioM/LDTS-project) | | |
-| [BD](https://github.com/ZeAntonioM/BD-Project) | | |
-| [DA-Project1](https://github.com/ZeAntonioM/da-project1) | | |
-| [DA-Project2](https://github.com/ZeAntonioM/DA-Project2) | | |
-| [ES](https://github.com/ZeAntonioM/ES-Project1) | | |
-| [LC](https://github.com/ZeAntonioM/LCOM-Project) | | |
-| [LTW](https://github.com/ZeAntonioM/LTW-Project) | | |
-| [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | | |
-| [PFL-Project1](https://github.com/ZeAntonioM/pfl-project1) | | |
-| [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | | |
-| [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | | |
-| [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | | |
+| [SO](https://github.com/ZeAntonioM/SOpeProject) | Learning about  | 17.6 |
+| [AED-Project1](https://github.com/ZeAntonioM/AED_project1) | Schedule Helper Application | 17.9 |
+| [AED-Project2](https://github.com/ZeAntonioM/AED_project2) | Analysis tool for Airport Airlines | 17.4 |
+| [LDTS](https://github.com/ZeAntonioM/LDTS-project) | Bomberman clone | 17.2 |
+| [BD](https://github.com/ZeAntonioM/BD-Project) | Database Study about Brasilian's football league | 15.7 |
+| [DA-Project1](https://github.com/ZeAntonioM/da-project1) | Analysis tool for a reilway network | 20 |
+| [DA-Project2](https://github.com/ZeAntonioM/DA-Project2) | Case study of shortest paths in graphs | 18.6 |
+| [ES](https://github.com/ZeAntonioM/ES-Project1) | Development of a mobile appication | 19.7 |
+| [LC](https://github.com/ZeAntonioM/LCOM-Project) | Drivers for I/O and Fireboy & Watergirl Clone | 19 |
+| [LTW](https://github.com/ZeAntonioM/LTW-Project) | Development of a Website to help students in FEUP | 16.2 |
+| [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | Development of a Website for Project Planning | X |
+| [PFL-Project1](https://github.com/ZeAntonioM/pfl-project1) | Development of Isaac board game using Prolog | 15.7 |
+| [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | X |
+| [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | Sending data from a PC to a different PC using Serial Port | 18.7 |
+| [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | Configuration of network and sending data using ftp | 18.1 |
 
 </p>
