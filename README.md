@@ -49,7 +49,7 @@
 
 | UC-ProjectX   | Description                                                                                                                                          | Grade (/20) |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [SO](https://github.com/ZeAntonioM/SOpeProject) | Learning about  | 17.6 |
+| [SO](https://github.com/ZeAntonioM/SOpeProject) | Learning about Linux commands, fifo's and pipes | 17.6 |
 | [AED-Project1](https://github.com/ZeAntonioM/AED_project1) | Schedule Helper Application | 17.9 |
 | [AED-Project2](https://github.com/ZeAntonioM/AED_project2) | Analysis tool for Airport Airlines | 17.4 |
 | [LDTS](https://github.com/ZeAntonioM/LDTS-project) | Bomberman clone | 17.2 |
