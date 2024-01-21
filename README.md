@@ -61,7 +61,7 @@
 | [LTW](https://github.com/ZeAntonioM/LTW-Project) | Development of a Website to help students in FEUP | 16.2 |
 | [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | Development of a Website for Project Planning | X |
 | [PFL-Project1](https://github.com/ZeAntonioM/pfl-project1) | Development of Isaac board game using Prolog | 15.7 |
-| [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | X |
+| [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | 19.1 |
 | [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | Sending data from a PC to a different PC using Serial Port | 18.7 |
 | [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | Configuration of network and sending data using ftp | 18.1 |
 
