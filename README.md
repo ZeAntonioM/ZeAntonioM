@@ -59,7 +59,7 @@
 | [ES](https://github.com/ZeAntonioM/ES-Project1) | Development of a mobile appication | 19.7 |
 | [LC](https://github.com/ZeAntonioM/LCOM-Project) | Drivers for I/O and Fireboy & Watergirl Clone | 19 |
 | [LTW](https://github.com/ZeAntonioM/LTW-Project) | Development of a Website to help students in FEUP | 16.2 |
-| [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | Development of a Website for Project Planning | X |
+| [LBAW](https://github.com/ZeAntonioM/LBAW-Project) | Development of a Website for Project Planning | 16.8 |
 | [PFL-Project1](https://github.com/ZeAntonioM/pfl-project1) | Development of Isaac board game using Prolog | 15.7 |
 | [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | 19.1 |
 | [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | Sending data from a PC to a different PC using Serial Port | 18.7 |
