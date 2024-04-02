@@ -82,6 +82,12 @@
 | [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | 19.1 |
 | [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | Sending data from a PC to a different PC using Serial Port | 18.7 |
 | [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | Configuration of network and sending data using ftp | 18.1 |
+| [COMP]() | Javamm Compiler | X |
+| [IA-Project1](https://github.com/ZeAntonioM/IA-project1) | Sokobond Game Clone | X |
+| [IA-Project2]() | TBD | X |
+| [CPD-Project1](https://github.com/ZeAntonioM/CPD/tree/main/assign1) | Studying parallel programming | X | 
+| [CPD-Project2](https://github.com/ZeAntonioM/CPD/tree/main/assign2) | TBD | X |
+| [CGRA]() | Working with WEBGL to do 3D Modeling | X |
 
 </p>
 </div>
