@@ -84,7 +84,7 @@
 | [COMP]() | Javamm Compiler | X |
 | [IA-Project1](https://github.com/ZeAntonioM/IA-project1) | Sokobond Game Clone | X |
 | [IA-Project2]() | TBD | X |
-| [CPD-Project1](https://github.com/ZeAntonioM/CPD/tree/main/assign1) | Studying parallel programming | X | 
+| [CPD-Project1](https://github.com/ZeAntonioM/CPD/tree/main/assign1) | Studying parallel programming | 17.1 | 
 | [CPD-Project2](https://github.com/ZeAntonioM/CPD/tree/main/assign2) | TBD | X |
 | [CGRA]() | Working with WEBGL to do 3D Modeling | X |
 
