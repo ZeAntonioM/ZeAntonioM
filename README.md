@@ -81,12 +81,12 @@
 | [PFL-Project2](https://github.com/ZeAntonioM/PFL-project2) | Low level machine and Compiler using Haskell | 19.1 |
 | [RCOM-Project1](https://github.com/ZeAntonioM/Rcom-First_lab) | Sending data from a PC to a different PC using Serial Port | 18.7 |
 | [RCOM-Project2](https://github.com/ZeAntonioM/RCOM-Lab2) | Configuration of network and sending data using ftp | 18.1 |
-| [COMP]() | Javamm Compiler | X |
-| [IA-Project1](https://github.com/ZeAntonioM/IA-project1) | Sokobond Game Clone | X |
-| [IA-Project2]() | TBD | X |
-| [CPD-Project1](https://github.com/ZeAntonioM/CPD/tree/main/assign1) | Studying parallel programming | 17.1 | 
-| [CPD-Project2](https://github.com/ZeAntonioM/CPD/tree/main/assign2) | TBD | X |
-| [CGRA]() | Working with WEBGL to do 3D Modeling | X |
+| [COMP](https://github.com/ZeAntonioM/Comp-Project) | Javamm Compiler | 18 |
+| [IA-Project1](https://github.com/ZeAntonioM/IA-project1) | Sokobond Game Clone | 18.5 |
+| [IA-Project2](https://github.com/ZeAntonioM/titanic-dataset-analysis) | Titanic dataset analysis with supervised Learning | 18.5 |
+| [CPD-Project1](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign1) | Studying parallel programming | 17.1 | 
+| [CPD-Project2](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign2) | Simple Game using java Threads | 16.9 |
+| [CGRA]() | Working with WEBGL to do 3D Modeling | 18.9 |
 
 </p>
 </div>
