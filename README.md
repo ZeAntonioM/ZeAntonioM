@@ -1,7 +1,7 @@
-### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+a### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-:computer: MSc in Informatics and Computing Engineering (year 3/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
+:computer: MSc in Informatics and Computing Engineering (year 4/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I'm currently interested in game development and exploring algorithms. <br />
 :video_game: I like to play some piano and games in my free time. <br />
 
@@ -86,7 +86,7 @@
 | [IA-Project2](https://github.com/ZeAntonioM/titanic-dataset-analysis) | Titanic dataset analysis with supervised Learning | 18.5 |
 | [CPD-Project1](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign1) | Studying parallel programming | 17.1 | 
 | [CPD-Project2](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign2) | Simple Game using java Threads | 16.9 |
-| [CGRA]() | Working with WEBGL to do 3D Modeling | 18.9 |
+| [CGRA](https://github.com/ZeAntonioM/CGRA-Project) | Working with WEBGL to do 3D Modeling | 18.9 |
 
 </p>
 </div>
