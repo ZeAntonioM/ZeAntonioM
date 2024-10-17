@@ -1,9 +1,9 @@
-a### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering (year 4/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I'm currently interested in game development and exploring algorithms. <br />
-:video_game: I like to play some piano and games in my free time. <br />
+:video_game: I like to play piano and games in my free time. <br />
 
 ###
 
@@ -61,10 +61,10 @@ a### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/Ma
 
 <div align = "center" >
 
-<h2 align = "center" >Projects</h2>
+<h2 align = "center" >University Projects</h2>
 <p align = "center">
 
-| UC-ProjectX   | Description                                                                                                                                          | Grade (/20) |
+| UC-Project    | Description                                                                                                                                          | Grade (/20) |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | [SO](https://github.com/ZeAntonioM/SOpeProject) | Learning about Linux commands, fifo's and pipes | 17.6 |
 | [AED-Project1](https://github.com/ZeAntonioM/AED_project1) | Schedule Helper Application | 17.9 |
@@ -87,6 +87,25 @@ a### Hi there, I'm José Martins! <img src="https://raw.githubusercontent.com/Ma
 | [CPD-Project1](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign1) | Studying parallel programming | 17.1 | 
 | [CPD-Project2](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign2) | Simple Game using java Threads | 16.9 |
 | [CGRA](https://github.com/ZeAntonioM/CGRA-Project) | Working with WEBGL to do 3D Modeling | 18.9 |
+| [PI](https://github.com/ZeAntonioM/TCANE) | Unity Project for studying haptic feedback  | 19.0 |
+| [AC]() | WNBA playoff qualifying prediction with AI | X |
+| [DS]() | AI assistant for Project Managing | X |
+| [PRI]() | Search Engine about Pokémon Tournaments | X |
+| [SDLE]() | X | X |
+| [SGI]() | Graphic Environments using ThreeJS | X |
+
+</p>
+</div>
+
+<div align = "center" >
+
+<h2 align = "center" >Personal Projects</h2>
+<p align = "center">
+
+| Name          | Description                                                                                                                                          |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [KIJIN](https://github.com/ZeAntonioM/KIJIN) | Game Developed for GMTK2024 |
+
 
 </p>
 </div>
