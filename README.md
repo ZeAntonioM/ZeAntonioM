@@ -71,7 +71,7 @@
 | [AED-Project2](https://github.com/ZeAntonioM/AED_project2) | Analysis tool for Airport Airlines | 17.4 |
 | [LDTS](https://github.com/ZeAntonioM/LDTS-project) | Bomberman clone | 17.2 |
 | [BD](https://github.com/ZeAntonioM/BD-Project) | Database Study about Brasilian's football league | 15.7 |
-| [DA-Project1](https://github.com/ZeAntonioM/da-project1) | Analysis tool for a reilway network | 20 |
+| [DA-Project1](https://github.com/ZeAntonioM/da-project1) | Analysis tool for a railway network | 20 |
 | [DA-Project2](https://github.com/ZeAntonioM/DA-Project2) | Case study of shortest paths in graphs | 18.6 |
 | [ES](https://github.com/ZeAntonioM/ES-Project1) | Development of a mobile appication | 19.7 |
 | [LC](https://github.com/ZeAntonioM/LCOM-Project) | Drivers for I/O and Fireboy & Watergirl Clone | 19 |
