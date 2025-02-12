@@ -88,11 +88,11 @@
 | [CPD-Project2](https://github.com/ZeAntonioM/CPD-Projects/tree/main/assign2) | Simple Game using java Threads | 16.9 |
 | [CGRA](https://github.com/ZeAntonioM/CGRA-Project) | Working with WEBGL to do 3D Modeling | 18.9 |
 | [PI](https://github.com/ZeAntonioM/TCANE) | Unity Project for studying haptic feedback  | 19.0 |
-| [AC]() | WNBA playoff qualifying prediction with AI | X |
-| [DS]() | AI assistant for Project Managing | X |
-| [PRI]() | Search Engine about Pokémon Tournaments | X |
-| [SDLE]() | X | X |
-| [SGI]() | Graphic Environments using ThreeJS | X |
+| [AC](https://github.com/ZeAntonioM/Machine-Learning) | WNBA playoff qualifying prediction with AI |15.5 |
+| [DS](https://github.com/ZeAntonioM/GeraldAi) | AI assistant for Project Managing | 18.0 |
+| [PRI](https://github.com/ZeAntonioM/Pokemon-Search-Engine) | Search Engine about Pokémon Tournaments | 16.6 |
+| [SDLE](https://github.com/ZeAntonioM/Shopping-List-Application) | Shopping List application | 18.0 |
+| [SGI](https://github.com/ZeAntonioM/SGI) | Graphic Environments using ThreeJS | 18.1 |
 
 </p>
 </div>
