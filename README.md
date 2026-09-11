@@ -27,8 +27,6 @@
 
 <img src="https://streak-stats.demolab.com?user=ZeAntonioM&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeAntonioM&theme=dracula&hide_border=true&radius=5&area=true&custom_title=Daily%20contributions" alt="Daily contributions" width="100%" />
-
 </div>
 
 ### 👾 Bonus level
